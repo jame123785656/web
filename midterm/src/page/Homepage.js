@@ -20,7 +20,7 @@ const Homepage = () => {
         <div class="w3-display-topleft w3-black w3-padding">Brick House</div>
         <img src="https://www.w3schools.com/w3images/house2.jpg" alt="House"  />
       </div>
-      <h1>fnksafjksajfksjflak</h1>
+      
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
